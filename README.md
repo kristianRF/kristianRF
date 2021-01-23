@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Kristian and I'm currently studying my masters in finance and economics, also I work part-time at Capital Four Management, a corporate credit focused investment management firm, where I work with portfolio construction and optimization.
+
+I use github for collaboration on projects, version control and to collect various resources from courses, MOOCs etc.
 
 <!--
 **kristianRF/kristianRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
