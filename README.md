@@ -1,19 +1,14 @@
+<!-- Actual text -->
 ### Hi there 👋
-My name is Kristian and I'm currently studying my masters in finance and economics, also I work part-time at Capital Four Management, a corporate credit focused investment management firm, where I work with portfolio construction and optimization.
+My name is Kristian Rumph Frederiksen and I'm currently studying my masters in finance and economics at Copenhagen Business School.
 
 I use github for collaboration on projects, version control and to collect various resources from courses, MOOCs etc.
 
-<!--
-**kristianRF/kristianRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me on [![LinkedIn][1.2]][1].
 
-Here are some ideas to get you started:
+<!-- Icons -->
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Links to your social media accounts -->
+
+[1]: www.linkedin.com/in/kristianrumph/
